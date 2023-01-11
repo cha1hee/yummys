@@ -1,0 +1,21 @@
+
+
+.menu {
+  width: 100%;
+}
+
+.logo {
+  display: block;
+  margin-left: 10px;
+  margin-right: auto;
+  height: 75px;
+}
+
+#navspace {
+  height: 1px;
+}
+
+#titleslide {
+  height: 102px;
+  background-color: black;
+}
